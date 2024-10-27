@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Demo
 
-https://talk-a-tive-7fgq.onrender.com
+https://lets-talk-zlxn.onrender.com
 
 ## Run Locally
 
