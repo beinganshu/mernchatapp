@@ -20,7 +20,7 @@ https://talk-a-tive-7fgq.onrender.com
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/beinganshu/mernchatapp.git
 ```
 
 Go to the project directory
